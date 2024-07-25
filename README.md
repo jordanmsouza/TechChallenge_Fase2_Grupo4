@@ -9,13 +9,9 @@ Trabalho de avaliação fase2 - FIAP IA Para Devs
 
 A empresa Brisanet (https://www.brisanet.com.br), é uma empresa de 
 
-telecomunicações, considerada a maior empresa do ramo na região nordeste do 
+telecomunicações, considerada a maior empresa do ramo na região nordeste do país.
 
-país.
-
-No passado a empresa Brisanet, passou por um problema de alocação de técnicos 
-
-para atendimento de OS (Ordem de serviço), nas cidades, por falta de controle, haviam vários técnicos atendendo a mesma OS, para instalação e também cancelamento de serviços.
+No passado a empresa Brisanet, passou por um problema de alocação de técnicos para atendimento de OS (Ordem de serviço), nas cidades, por falta de controle, haviam vários técnicos atendendo a mesma OS, para instalação e também cancelamento de serviços.
 
 O problema consistia em: 
 
