@@ -58,9 +58,7 @@ Nesse caso apenas como é um MVP (Minimum Viable Product), não vamos considerar
 
 **1.0 - Definindo as Rotas das OS’s**
 **
-- **População inicial**: Após dividir as OS’s para cada técnico, 
-
-vamos usar as OS’s e o técnico, para criar nossa **população inicial.**
+\- **População inicial**: Após dividir as OS’s para cada técnico, vamos usar as OS’s e o técnico, para criar nossa **população inicial.**
 
 \- **Gerações**: Eu proponho usarmos 100 gerações como valor default.
 
