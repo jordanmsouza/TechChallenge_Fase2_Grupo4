@@ -57,7 +57,6 @@ ser definidas (algoritmo genético).
 Nesse caso apenas como é um MVP (Minimum Viable Product), não vamos considerar itens como o grau de urgência da OS e o tempo médio gasto em cada OS, o que determinaria a quantidade de OS’s atendidas diariamente por técnico.
 
 **1.0 - Definindo as Rotas das OS’s**
-**
 `	`- **População inicial**: Após dividir as OS’s para cada técnico, 
 
 vamos usar as OS’s e o técnico, para criar nossa **população inicial.**
