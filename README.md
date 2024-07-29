@@ -6,11 +6,11 @@
 
 ***DESCRIÇÃO DO PROBLEMA***
 
-A empresa Brisanet (https://www.brisanet.com.br), é uma empresa de 
+A empresa 1234telecomunicações (https://www.1234telecomunicações.com.br), é uma empresa de 
 
 telecomunicações, considerada a maior empresa do ramo na região nordeste do 
 
-país. No passado a empresa Brisanet, passou por um problema de alocação de técnicos para atendimento de OS (Ordem de serviço), nas cidades, por falta de controle, havia vários técnicos atendendo a mesma OS, para instalação e cancelamento de serviços.
+país. No passado a empresa 1234telecomunicações, passou por um problema de alocação de técnicos para atendimento de OS (Ordem de serviço), nas cidades, por falta de controle, havia vários técnicos atendendo a mesma OS, para instalação e cancelamento de serviços.
 
 **1.0 - Problema**:
 
@@ -106,7 +106,7 @@ Nota-se que o algoritmo se estagna em uma solução **sub ótima** em média a c
 
 **5.0 – Considerações finais:**
 
-A solução atende a necessidade proporcionando uma rota adequada para cada técnico dentro da solução sub ótima encontrada pelo algoritmo genético. Com isso o problema da empresa Brisanet é solucionado de maneira que os atendimentos sejam priorizados e a satisfação do cliente possa ser garantida.
+A solução atende a necessidade proporcionando uma rota adequada para cada técnico dentro da solução sub ótima encontrada pelo algoritmo genético. Com isso o problema da empresa 1234telecomunicações é solucionado de maneira que os atendimentos sejam priorizados e a satisfação do cliente possa ser garantida.
 
 
 |**Revisão**|**Data**|**Revisor/Criador**|<p>**Itens alterados**</p><p>(adicionar breve descrição da alteração)</p>|
