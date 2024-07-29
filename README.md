@@ -1,6 +1,6 @@
 
 
-|<p></p><p>FIAP – Pós Tech<br>Tech Challenger 02</p>|<p></p><p>Versão 1.0</p><p>Data de Criação</p><p>05/07/2024</p><p></p>|
+|<p></p><p>FIAP – Pós Tech<br>Tech Challenger 02</p>|<p></p><p>Versão 1.1</p><p>Data de Criação</p><p>05/07/2024</p><p></p>|
 | :-: | :- |
 
 
