@@ -53,7 +53,7 @@ Nesse caso apenas como é um MVP (Minimum Viable Product), não vamos considerar
 
 **Mutações**: É proposto usar o valor 0.5 de mutação como default.
 
-**Fitness**: É proposto utiliza a rota com a melhor solução sub ótima.
+**Fitness**: É proposto usar a rota com a melhor solução sub ótima.
 
 **3.0 - Valores fictícios:**
 
@@ -112,6 +112,6 @@ A solução atende a necessidade proporcionando uma rota adequada para cada téc
 |**Revisão**|**Data**|**Revisor/Criador**|<p>**Itens alterados**</p><p>(adicionar breve descrição da alteração)</p>|
 | :-: | :-: | :-: | :-: |
 |001|05/07/24|Fernando Meneses|Criação.|
-|001|29/07/24|Jordan Marques|Análise e resultados obitidos.|
+|002|29/07/24|Jordan Marques|Análise e resultados obitidos.|
 
 
