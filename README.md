@@ -128,8 +128,6 @@ Descrição gerada automaticamente](Aspose.Words.3d1cbb84-441a-4ce1-9219-369e058
 |**Revisão**|**Data**|**Revisor/Criador**|<p>**Itens alterados**</p><p>(adicionar breve descrição da alteração)</p>|
 | :-: | :-: | :-: | :-: |
 |001|05/07/24|Fernando Meneses|Criação.|
-|**Revisão**|**Data**|**Revisor/Criador**|<p>**Itens alterados**</p><p>(adicionar breve descrição da alteração)</p>|
-| :-: | :-: | :-: | :-: |
 |001|29/07/24|Jordan Marques|Análise e resultados obitidos.|
 
 
