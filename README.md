@@ -104,7 +104,7 @@ Nota-se que o algoritmo se estagna em uma solução **sub ótima** em média a c
 
 **4.0 – Considerações finais**
 
-` `A solução atende a necessidade proporcionando uma rota adequada para cada técnico dentro da solução sub ótima encontrada pelo algoritmo genético. Com isso o problema da empresa Brisanet é solucionado de maneira que os atendimentos sejam priorizados e a satisfação do cliente possa ser garantida.
+A solução atende a necessidade proporcionando uma rota adequada para cada técnico dentro da solução sub ótima encontrada pelo algoritmo genético. Com isso o problema da empresa Brisanet é solucionado de maneira que os atendimentos sejam priorizados e a satisfação do cliente possa ser garantida.
 
 
 |**Revisão**|**Data**|**Revisor/Criador**|<p>**Itens alterados**</p><p>(adicionar breve descrição da alteração)</p>|
