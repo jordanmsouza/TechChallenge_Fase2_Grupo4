@@ -4,7 +4,7 @@
 | :-: | :- |
 
 
-**DESCRIÇÃO DO PROBLEMA**
+***DESCRIÇÃO DO PROBLEMA***
 
 A empresa Brisanet (https://www.brisanet.com.br), é uma empresa de 
 
@@ -27,7 +27,7 @@ na central, estava sendo atendida por alguém. E por muitas vezes ocorria falha 
 
 **
 
-**PROPOSTA DE SOLUÇÃO**
+***PROPOSTA DE SOLUÇÃO***
 
 Como solução, precisamos verificar os endereços das OS, e dividir entre os 
 
@@ -64,7 +64,7 @@ OS’s. Totalizando 5 OS’s para cada técnico e cada OS com endereços diferen
 
 
 
-**ANÁLISES E RESULTADOS OBITIDOS**
+***ANÁLISES E RESULTADOS OBITIDOS***
 
 A solução, proposta foi realizada com sucesso e o algoritmo genético em sua execução performou bem, dividindo as OSs de forma igualitária para todos os técnicos envolvidos e as roteirizado de acordo com a solução sub ótimas encontradas.
 
