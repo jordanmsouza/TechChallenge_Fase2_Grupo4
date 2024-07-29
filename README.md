@@ -77,15 +77,10 @@ Outra medida utilizada, é a seleção por torneio, que prioriza os melhores ind
 
 ![Aspose Words 3d1cbb84-441a-4ce1-9219-369e0580c49f 001](https://github.com/user-attachments/assets/6bb183d8-3fcb-4767-85f9-b81c36364658)
 
+![Aspose Words 3d1cbb84-441a-4ce1-9219-369e0580c49f 002](https://github.com/user-attachments/assets/a79f22a6-fab3-4e4a-8a7f-fce049a5f583)
 
+![Aspose Words 3d1cbb84-441a-4ce1-9219-369e0580c49f 003](https://github.com/user-attachments/assets/9ae18222-220c-41d6-a316-218f85580be2)
 
-![Gráfico, Gráfico de linhas
-
-Descrição gerada automaticamente](Aspose.Words.3d1cbb84-441a-4ce1-9219-369e0580c49f.002.png)
-
-![Tela de computador com texto preto sobre fundo branco
-
-Descrição gerada automaticamente](Aspose.Words.3d1cbb84-441a-4ce1-9219-369e0580c49f.003.png)
 
 
 
@@ -98,26 +93,14 @@ Descrição gerada automaticamente](Aspose.Words.3d1cbb84-441a-4ce1-9219-369e058
 
 Nota-se que o algoritmo se estagna em uma solução **sub ótima** em média a cada 35 gerações, isso pode apontar para uma deficiência do algoritmo em encontrar evoluções a longo prazo, necessitando assim da implementação de melhorias futuras nó código.
 
-![Gráfico, Gráfico de radar
+![Aspose Words 3d1cbb84-441a-4ce1-9219-369e0580c49f 004](https://github.com/user-attachments/assets/7b8bef2c-0bd7-4f12-b5b9-60df357c551c)
 
-Descrição gerada automaticamente](Aspose.Words.3d1cbb84-441a-4ce1-9219-369e0580c49f.004.png)
+![Aspose Words 3d1cbb84-441a-4ce1-9219-369e0580c49f 005](https://github.com/user-attachments/assets/e50d2484-f08b-4d41-b357-6e491ec03dea)
 
+![Aspose Words 3d1cbb84-441a-4ce1-9219-369e0580c49f 006](https://github.com/user-attachments/assets/e15c60e4-f48c-4e8f-a1ba-c168c5827913)
 
-![Gráfico, Gráfico de linhas
+![Aspose Words 3d1cbb84-441a-4ce1-9219-369e0580c49f 007](https://github.com/user-attachments/assets/578b6163-0413-4e2c-9e12-b3e7b300ab7c)
 
-Descrição gerada automaticamente](Aspose.Words.3d1cbb84-441a-4ce1-9219-369e0580c49f.005.png)
-
-
-
-![Gráfico, Gráfico de linhas
-
-Descrição gerada automaticamente](Aspose.Words.3d1cbb84-441a-4ce1-9219-369e0580c49f.006.png)
-
-
-
-![Gráfico, Gráfico de linhas
-
-Descrição gerada automaticamente](Aspose.Words.3d1cbb84-441a-4ce1-9219-369e0580c49f.007.png)
 
 **4.0 – Considerações finais**
 
