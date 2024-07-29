@@ -14,13 +14,13 @@ país. No passado a empresa Brisanet, passou por um problema de alocação de t�
 
 **1.0 - Problema**:
 
-`	`Vários técnicos recebiam a mesma OS, tanto para instalação quanto para 
+Vários técnicos recebiam a mesma OS, tanto para instalação quanto para 
 
 cancelamento de serviços. Fazendo com que o técnico se desloca-se para o 
 
 endereço da OS, sem uma verificação da distância do técnico. Ou se já havia algum outro técnico atendendo aquela OS.
 
-`          `Os técnicos tinham que se comunicar por telefone, para saber se a OS aberta
+Os técnicos tinham que se comunicar por telefone, para saber se a OS aberta
 
 na central, estava sendo atendida por alguém. E por muitas vezes ocorria falha de comunicação, ou sobrecarregava algum técnico que ficava responsável pela organização das OS’s.
 
@@ -75,9 +75,8 @@ Utilizou-se também, o elitismo que garante que o melhor individuo de uma geraç
 Outra medida utilizada, é a seleção por torneio, que prioriza os melhores indivíduos para o método de cruzamento passando os melhores genes a diante.
 
 
-![Gráfico, Gráfico de linhas
+![Aspose Words 3d1cbb84-441a-4ce1-9219-369e0580c49f 001](https://github.com/user-attachments/assets/6bb183d8-3fcb-4767-85f9-b81c36364658)
 
-Descrição gerada automaticamente](Aspose.Words.3d1cbb84-441a-4ce1-9219-369e0580c49f.001.png)
 
 
 ![Gráfico, Gráfico de linhas
