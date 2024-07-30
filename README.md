@@ -4,7 +4,7 @@
 | :-: | :- |
 
 
-***LINK YOUTUBE***
+***LINK EXPLICAÇÃO YOUTUBE***
 https://youtu.be/Apzu5GLPRGI
 
 ***DESCRIÇÃO DO PROBLEMA***
